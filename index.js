@@ -1,0 +1,1 @@
+console.log("Welcome to the backend of my e-commerce website using mongoDB");
